@@ -35,5 +35,5 @@ my_list.sort()
 print(my_list)
 
 #Exercise_9
-my_tuple = my_tuple + ('Martínez',)
+my_tuple += ('Martínez',)
 print(my_tuple)
